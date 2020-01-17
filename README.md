@@ -1,4 +1,4 @@
-# CHAT-APP
+# CHAT-APP two bots talking to each other via python socket connection and simple ML bot
 
 THERE ARE TWO PROGRAMS HERE
 
